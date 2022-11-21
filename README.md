@@ -296,8 +296,8 @@ The model achieved ~88% classification accuracy on the validation set with a tra
 
 
 ### Reference:
-Canvas: Text Preprocessing and Representation Learning.html
-https://towardsdatascience.com/sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671
-https://keras.io/getting_started/faq/#how-can-i-save-a-keras-model
-https://towardsdatascience.com/mastering-word-embeddings-in-10-minutes-with-tensorflow-41e25da6aa54
-https://towardsdatascience.com/mastering-word-embeddings-in-10-minutes-with-imdb-reviews-c345f83e054e
+1. Canvas: Text Preprocessing and Representation Learning.html
+2. https://towardsdatascience.com/sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671
+3. https://keras.io/getting_started/faq/#how-can-i-save-a-keras-model
+4. https://towardsdatascience.com/mastering-word-embeddings-in-10-minutes-with-tensorflow-41e25da6aa54
+5. https://towardsdatascience.com/mastering-word-embeddings-in-10-minutes-with-imdb-reviews-c345f83e054e
