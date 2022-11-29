@@ -17,8 +17,7 @@ IMDB Reviews Dataset is a large movie review dataset. The IMDB Reviews dataset i
 ### What is BERT?
 BERT stands for Bidirectional Encoder Representations from Transformers and it is a state-of-the-art machine learning model used for NLP tasks. Jacob Devlin and his colleagues developed BERT at Google in 2018. Devlin and his colleagues trained the BERT on English Wikipedia (2,500M words) and BooksCorpus (800M words) and achieved the best accuracies for some of the NLP tasks in 2018. There are two pre-trained general BERT variations: The base model is a 12-layer, 768-hidden, 12-heads, 110M parameter neural network architecture, whereas the large model is a 24-layer, 1024-hidden, 16-heads, 340M parameter neural network architecture. Figure 2 shows the visualization of the BERT network created by Devlin et al.
 
-![image](https://user-images.githubusercontent.com/50436546/203155249-ba4ca4d1-be9b-427f-9711-e5359cd41617.png)
-![image](https://user-images.githubusercontent.com/50436546/203155268-a9f1eb3b-2292-4d4d-93c3-388927e95751.png)
+![image](https://user-images.githubusercontent.com/50436546/204429564-e3ddbe67-5f23-4c32-9835-c4d11d02e121.png)
 
 ### Installing Transformers
 Installing the Transformers library is fairly easy. Just run the following pip line on a Google Colab cell:
